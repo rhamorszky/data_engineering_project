@@ -95,11 +95,6 @@ Here are some example Athena queries:
 - Add visualization tools (e.g., Tableau, Power BI) for better insights.
 - Expand the data pipeline to include additional data sources.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or feedback, feel free to contact the repository owner.
