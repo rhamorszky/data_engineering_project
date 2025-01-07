@@ -90,12 +90,22 @@ Here are some example Athena queries:
    ORDER BY avg_rides DESC;
    ```
 
+
+## Visualizations
+![Correlation Matrix Heatmap for hourly ride count](Fig1_correlation_matrix_heatmap_hourly_ride_count.png)
+![Hourly Ride Count by Hour of the Day](Fig2_hourly_ride_count_by_hour.png)
+![Ride Count by Hour and Day of Week](Fig3_ride_count_by_hour_and_day_of_week.png)
+![Average Fare by Day of the Week](Fig4_average_fare_by_day.png)
+![Correlation Matrix Heatmap for hourly average fare](Fig5_correlation_matrix_heatmap_hourly_avg_fare.png)
+![Average Fare by Day and Hour](Fig6_average_fare_by_day_hour.png)
+![Avg Fare by Hour and Day of Week](Fig7_avg_fare_by_hour_and_day_of_week.png)
+
+
+
 ## Future Enhancements
-- Incorporate real-time weather data.
 - Add visualization tools (e.g., Tableau, Power BI) for better insights.
 - Expand the data pipeline to include additional data sources.
 
 
 ## Contact
 For any questions or feedback, feel free to contact the repository owner.
-
